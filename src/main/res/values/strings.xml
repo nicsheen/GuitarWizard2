@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Guitar Wizard</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="set">Start</string>
+    <string name="stop">Stop</string>
+    <string name="lblInit">...</string>
+    <string name="type_here">type here</string>
+    <string name="enter_bpm">Enter BPM</string>
+    <string name="_2_4">2/4</string>
+    <string name="_3_4">3/4</string>
+    <string name="_4_4">4/4</string>
+    <string name="_6_8">6/8</string>
+    <string name="kick">Kick</string>
+    <string name="snare">Snare</string>
+    <string name="crash">Crash</string>
+    <string name="hihat">Hi Hat</string>
+    <string name="first_beat">First Beat</string>
+    <string name="other_beats">Other Beats</string>
+    <string name="time_signature">Time Signature</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+
+    <string-array name="time_signatures">
+        <item>2/4</item>
+        <item>3/4</item>
+        <item>4/4</item>
+        <item>6/8</item>
+    </string-array>
+</resources>
